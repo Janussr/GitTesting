@@ -1,7 +1,10 @@
 streg
 
 trekant
+<<<<<<< HEAD
 
 firkant
 
 circle
+=======
+>>>>>>> parent of 0ccb670... nyeste
