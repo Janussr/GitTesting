@@ -3,3 +3,5 @@ streg
 trekant
 
 firkant
+
+circle
