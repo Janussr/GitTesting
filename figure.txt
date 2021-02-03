@@ -7,4 +7,6 @@ firkant
 
 circle
 =======
->>>>>>> parent of 0ccb670... nyeste
+
+
+ottekant
