@@ -1,0 +1,14 @@
+nyeste
+
+streg
+
+trekant
+<<<<<<< HEAD
+
+firkant
+
+circle
+=======
+
+
+ottekant
