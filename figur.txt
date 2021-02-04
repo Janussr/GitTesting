@@ -1,3 +1,7 @@
+bare send nu
+
+sended
+
 trekant 
 
 circle - janus
